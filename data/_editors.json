@@ -1,27 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
+        "name": "Thomas",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "admin",
-        "name": "List Admin",
+        "name": "Thomas",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "helper",
-        "name": "List Helper",
+        "role": "Helper",
+        "name": "Nobody",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
+        "name": "wth does this even mean",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "dawg the template creators or some s**t",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
